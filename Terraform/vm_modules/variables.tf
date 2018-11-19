@@ -26,5 +26,4 @@ variable "admin_username" {
 
 variable "admin_password" {
   description = "vmpassword"
-  default     = "vmadmin123*"
 }
