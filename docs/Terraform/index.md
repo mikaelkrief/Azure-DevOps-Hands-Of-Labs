@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Buttons
-parent: UI Components
+parent: Terraform
 nav_order: 2
 ---
 
